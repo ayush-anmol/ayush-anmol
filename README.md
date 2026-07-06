@@ -1,16 +1,17 @@
-## Hi there 👋
+### Namaste / नमस्ते  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> I'm Ayush Anmol
 
-<!--
-**ayush-anmol/ayush-anmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning about LLM, AI agents and System design
 
-Here are some ideas to get you started:
+- Designing and experimenting with LLM-powered AI agents
+- Studying system design to build things that scale
+- Sharpening problem-solving through DSA
+- Interested in the intersection of research and applied ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Open to full-time roles: AI Engineer, SDE - ML and Research Engineer
+
+### Technology </br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
+Contact Me: [aanmol[dot]connect[at]gmail[dot]com](mailto:aanmol.connect@gmail.com)  -  [LinkedIn](https://linkedin.com/in/ayush-anmol) - [Website](https://linkedin.com/in/ayush-anmol)
