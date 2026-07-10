@@ -14,4 +14,4 @@
 
 
 
-Contact Me: [aanmol[dot]connect[at]gmail[dot]com](mailto:aanmol.connect@gmail.com)  -  [LinkedIn](https://linkedin.com/in/ayush-anmol) - [Website](https://linkedin.com/in/ayush-anmol)
+Contact Me: [aanmol[dot]connect[at]gmail[dot]com](mailto:aanmol.connect@gmail.com)  -  [LinkedIn](https://linkedin.com/in/ayush-anmol) - [Website](https://ayush-anmol.github.io/)
